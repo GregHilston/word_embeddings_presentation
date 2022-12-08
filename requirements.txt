@@ -7,7 +7,7 @@ boto==2.48.0
 boto3==1.7.30
 botocore==1.10.30
 bz2file==0.98
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 cymem==1.31.2
 cytoolz==0.8.2
